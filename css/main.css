@@ -1,0 +1,15 @@
+.todo{
+	background-color: #00aced;
+	font-family: 'Fredoka One', cursive;
+	color: #fff;
+	/*text-shadow: -2px -2px 0px #fff, 2px -2px 0px #fff, -2px 2px 0px #fff, 2px 2px 0px #fff;*/
+}
+
+h1{
+	font-size: 300%;
+}
+
+.margen{
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
